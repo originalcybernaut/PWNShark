@@ -1,4 +1,4 @@
-# PWNShark: the practitioner's python pcap parser
+# PWNShark: The Purple Teaming Python PCAP Parser
 
 This project takes in a pcap file and outputs information regarding malicious behavior.
 Detectable behavior include FTP, SSH, LDAP, and SMB brute forcing, NMAP scanning, directory traversal, and SQL injections.
